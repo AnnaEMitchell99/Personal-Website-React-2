@@ -1,0 +1,48 @@
+/* .page-names {
+    display:flex;
+    justify-content:flex-end;
+    font-size:2em;
+    justify-content:space-evenly;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-bottom:5px dotted rgb(18, 16, 16);
+    padding:.25em;
+
+} */
+
+#hobbies-title{
+    display:flex;
+    justify-content:center;
+    margin-top:0em;
+}
+#video-games{
+    border-bottom:3px solid black;
+    padding-bottom:4em
+}
+#witcher-3{
+    height:7em;
+    float:left;
+}
+#video-game-paragraph{
+    font-size:1.5em;
+}
+#reading{
+    border-bottom:3px solid black;
+    padding-bottom:4em
+}
+#book-image{
+    height:7em;
+    float:left;
+}
+#reading-paragraph{
+    font-size:1.5em;
+}
+#music{
+    padding-bottom:8em
+}
+#guitar-image{
+    height:8em;
+    float:left;
+}
+#music-paragraph{
+    font-size:1.5em;
+}

@@ -1,0 +1,65 @@
+.page-names {
+    display:flex;
+    justify-content:flex-start;
+    font-size:2em;
+    justify-content:space-evenly;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-bottom:5px dotted rgb(18, 16, 16);
+    padding:.25em;
+}
+
+.my-name{
+    text-align:center;
+    font-size:3em;
+    background-color:lightcyan;
+    border: 6px double purple;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#header{
+    background-color:lightcyan;
+}
+
+/* #intro-p{
+    text-align:center;
+    font-size:4.25em;
+    margin-top:8%;
+    margin-right:55%;
+    background-color: lightcyan;
+    border:10px double purple;
+}
+
+.michael-scott{
+    width:20em;
+    height:12em;
+    margin-left: 55%;
+    margin-bottom: 40%;
+   
+} */
+
+#intro-p{
+    text-align:center;
+    font-size:4.25em;
+    margin-top:8%;
+    background-color: lightcyan;
+    border:10px double purple;
+}
+
+.michael-scott{
+    width: 40em;
+    height: 25em;
+    margin-left: 25%;
+    margin-right: 2em;
+    /* margin-top: 7.5em; */
+
+}
+
+.body{
+    display:flex;
+}
+
+*{
+    background-color: lightcyan;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

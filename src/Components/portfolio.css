@@ -1,0 +1,77 @@
+.page-names {
+    display:flex;
+    justify-content:flex-end;
+    font-size:2em;
+    justify-content:space-evenly;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-bottom:5px dotted rgb(18, 16, 16);
+    padding:.25em;
+
+}
+
+#my-portfolio{
+    display:flex;
+    justify-content:center;
+    margin-top:0em;
+    font-size:2em;
+}
+#project-1{
+    background-color:lavender;
+    border:5px black solid;
+    padding:2em;
+    margin-top:2em;
+    margin-left:5em;
+    margin-right:5em;
+    margin-bottom:2em;
+}
+#project-1-header{
+    background-color: lavender;
+    font-size:2em;
+}
+#image-1{
+  float:right;
+}
+#project-1-paragraph{
+    background-color: lavender;
+    font-size:2em;
+}
+#project-2{
+    background-color: lavender;
+    border:5px black solid;
+    padding:2em;
+    margin-top:2em;
+    margin-left:5em;
+    margin-right:5em;
+    margin-bottom:3em;
+}
+#project-2-header{
+    background-color: lavender;
+    font-size:2em;
+}
+#image-2{
+    float:right;
+}
+#project-2-paragraph{
+    background-color: lavender;
+    font-size:2em;
+}
+#project-3{
+    background-color: lavender;
+    border:5px black solid;
+    padding:2em;
+    margin-top:2em;
+    margin-left:5em;
+    margin-right:5em;
+    margin-bottom:3em;
+}
+#project-3-header{
+    background-color: lavender;
+    font-size:2em;
+}
+#image-3{
+    float:right;
+}
+#project-3-paragraph{
+    background-color: lavender;
+    font-size:2em;
+}

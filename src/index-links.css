@@ -1,0 +1,10 @@
+.links{
+    display:flex;
+    justify-content:flex-end;
+    font-size:2em;
+    justify-content:space-evenly;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-bottom:5px double purple;
+    /* padding:.25em; */
+    padding-bottom: 20px;
+}
